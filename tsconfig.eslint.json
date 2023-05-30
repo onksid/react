@@ -1,0 +1,7 @@
+{
+    "include": [
+      ".eslintrc.cjs",
+      "tailwind.config.cjs",
+      "vite.config.ts"
+    ]
+  }
