@@ -1,4 +1,8 @@
-import { useEffect, useMemo, useState } from 'react'
+// const cobaelement = useRef<HTMLDivElement | null>(null)
+// transition-duration: 500ms;
+// const { isAnimation, isOpen, isClick, isOpenProtal, isClosePortal } =
+//usePortal(cobaelement, 300)
+import { useEffect, useState } from 'react'
 
 export default function usePortal(refElement: any, transitionDuration: number) {
   const [isClick, setIsClick] = useState<boolean>()

@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.14",
     "@state-designer/react": "^3.0.0",
     "@stitches/react": "^1.2.8",
     "@tldraw/core": "^1.23.2",
@@ -29,6 +30,7 @@
     "react-image-crop": "^10.0.9",
     "react-sketch": "^0.5.1",
     "react-sketch-canvas": "^6.2.0",
+    "react-use": "^17.4.0",
     "react-zoom-pan-pinch": "^3.0.7",
     "roughjs": "^4.5.2",
     "shapes": "^0.4.0",
